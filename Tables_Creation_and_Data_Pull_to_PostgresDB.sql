@@ -2,8 +2,9 @@
 --- a. Creation of achievement_percentages table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."achievement_percentages" (
-	appid integer, 
-	ach_name text, percentage numeric
+	appid_ach integer, 
+	ach_name text, 
+	percentage numeric
 )
 
 \COPY public."achievement_percentages" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Achievement_Percentages.csv' 
@@ -33,7 +34,7 @@ CREATE TABLE public."friends" (
 	steamid_a bigint, 
 	steamid_b bigint, 
 	friends_since timestamp with time zone, 
-	dateretrieved timestamp with time zone
+	dateretrieved_friends timestamp with time zone
 )
 
 \COPY public."friends" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Friends.csv' 
@@ -43,11 +44,11 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of games_1 table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."games_1" (
-	steamid bigint, 
-	appid integer, 
-	playtime_2weeks integer, 
-	playtime_forever integer, 
-	dateretrieved timestamp with time zone
+	steamid_games_1 bigint, 
+	appid_games_1 integer, 
+	playtime_2weeks_games_1 integer, 
+	playtime_forever_games_1 integer, 
+	dateretrieved_games_1 timestamp with time zone
 )
 
 \COPY public."games_1" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Games_1.csv' 
@@ -57,11 +58,11 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of games_2 table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."games_2" (
-	steamid bigint, 
-	appid integer, 
-	playtime_2weeks integer, 
-	playtime_forever integer, 
-	dateretrieved timestamp with time zone
+	steamid_games_2 bigint, 
+	appid_games_2 integer, 
+	playtime_2weeks_games_2 integer, 
+	playtime_forever_games_2 integer, 
+	dateretrieved_games_2 timestamp with time zone
 )
 
 \COPY public."games_2" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Games_2.csv' 
@@ -71,7 +72,7 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of games_developers table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."games_developers" (
-	appid integer, 
+	appid_dev integer, 
 	app_developer text
 )
 
@@ -82,7 +83,7 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of games_genres table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."games_genres" (
-	appid integer, 
+	appid_genre integer, 
 	app_genre text
 )
 
@@ -93,7 +94,7 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of games_publishers table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."games_publishers" (
-	appid integer, 
+	appid_publisher integer, 
 	app_publisher text
 )
 
@@ -104,9 +105,9 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of groups table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."groups" (
-	steamid bigint, 
-	groupid integer, 
-	dateretrieved timestamp with time zone
+	steamid_group bigint, 
+	groupid_group integer, 
+	dateretrieved_group timestamp with time zone
 )
 
 \COPY public."groups" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Groups.csv' 
@@ -116,7 +117,7 @@ WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
 --- a. Creation of player_summaries table and dimensions
 --- b. Copying the data from the CSV file to the table in the postgres database
 CREATE TABLE public."player_summaries" (
-	steamid bigint, 
+	steamid_player_summary bigint, 
 	personaname text, 
 	profileurl text, 
 	avatar text, 
@@ -137,7 +138,7 @@ CREATE TABLE public."player_summaries" (
 	loccountrycode VARCHAR(4), 
 	locstatecode text, 
 	loccityid integer, 
-	dateretrieved timestamp with time zone)
+	dateretrieved_player_summary timestamp with time zone)
 										
 \COPY public."player_summaries" FROM 'C:\Users\Saira\Downloads\steam_gaming_small\steam_gaming_small\Player_Summaries.csv' 
 WITH DELIMITER AS ',' ENCODING 'UTF8' CSV HEADER;
