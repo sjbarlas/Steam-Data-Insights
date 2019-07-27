@@ -30275,7 +30275,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontcolor='#edc948' fontname='Cambria' italic='true'>Does the app have a multiplayer option?</run>
+            <run bold='true' fontalignment='1' fontcolor='#ff9da7' fontname='Cambria' italic='true'>Does the app have a multiplayer option?</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -30324,10 +30324,10 @@
             <format attr='background-color' id='refline0' value='#f9e9e07f' />
           </style-rule>
           <style-rule element='title'>
-            <format attr='background-color' value='#faf5f0' />
             <format attr='border-color' value='#000000' />
             <format attr='border-width' value='0' />
             <format attr='border-style' value='none' />
+            <format attr='background-color' value='#dfedeb' />
           </style-rule>
           <style-rule element='legend-title'>
             <format attr='text-align' value='left' />
@@ -30673,8 +30673,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='26' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='27' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='29' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='App Multiplayer Options' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
