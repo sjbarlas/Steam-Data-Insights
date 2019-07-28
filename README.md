@@ -18,7 +18,7 @@ Let's analyse data from 2014, specifically the months of August and September. I
 
 ## 4. Steam Matchmaking
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Steam%20Matchmaking.png)
-Now let's drill down to what these users were playing when the data was retrieved. Many were using the **Steam Matchmaking feature ('Yes') which meant they were playing the multiplayer mode of various games** with _Dota_ 2 being the most popular. Even though _Half-Life 2: Lost Coast_ was shown to be the most popular game on Steam, this resulting analysis does not display it to be popular for either of those months.
+Now let's drill down to what these users were playing when the data was retrieved. Many were using the **Steam Matchmaking feature ('Yes') which meant they were playing the multiplayer mode of various games** with _Dota_ 2 being the most popular. Even though _Half-Life 2: Lost Coast_ was shown to be the most popular game on Steam, this resulting analysis does not display it to be the number one most popular for either of those months. This game's counterpart; Half-Life 2: Deathmatch, on the other hand does indeed contain a multiplayer mode and hence is the top playable game for both months.
 
 ### Markdown
 
