@@ -698,6 +698,691 @@
               <bucket>&quot;[federated.1n8v2591ocftub1czkrvo03gi10g].[sum:steamid_group:qk]&quot;</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[attr:is_multiplayer:nk]' palette='cyclic_10_0' type='palette'>
+            <map to='#1ba3c6'>
+              <bucket>false</bucket>
+            </map>
+            <map to='#4f7cba'>
+              <bucket>true</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:is_multiplayer:nk]' palette='jewel_bright_10_0' type='palette'>
+            <map to='#64cdcc'>
+              <bucket>true</bucket>
+            </map>
+            <map to='#f9d23c'>
+              <bucket>false</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[dy:dateretrieved_games_2:ok]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>9</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>8</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[wd:dateretrieved_games_2:ok]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>2</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>1</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>6</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>4</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>7</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>9</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>3</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>8</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>5</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[wk:dateretrieved_games_2:ok]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>9</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>8</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[yr:dateretrieved_games_2:ok]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>9</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>8</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:loccountrycode:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;AN&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;BS&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;CZ&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;GA&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;IQ&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;LU&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;NF&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;QA&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;TH&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;VN&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;BE&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;CM&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;ES&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;HR&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;KW&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;MT&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;PK&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;SK&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;US&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;AG&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;BM&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;CU&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;FK&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;IE&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;LB&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;MY&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;PR&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;SV&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;VC&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;AS&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;BY&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;DM&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;GL&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;JM&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;MC&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;NP&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;RW&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;TO&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;YE&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;AO&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;BT&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;DE&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;GB&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;IR&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;LV&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;NG&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;RE&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;TJ&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;VU&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;AI&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;BN&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;CV&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;FO&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;IL&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;LC&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;MZ&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;PT&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;SY&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;VE&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;BB&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;CK&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;EH&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;HK&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;KI&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;MP&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;PG&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;SI&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;UG&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;AD&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;BF&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;CN&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;ET&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;HT&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;KY&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;MU&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;PL&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;SM&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;UY&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;AZ&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;CH&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;EE&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;GT&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;KG&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;MN&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;PA&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;SG&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;TW&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;ZW&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;AL&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;BO&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;CX&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;FR&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;IN&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;LK&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;NA&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;PW&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;SZ&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;VG&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;AT&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;BZ&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;DO&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;GM&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;JO&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;MD&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;NU&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;SA&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;TR&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;YU&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;AU&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;CA&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;DZ&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;GP&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;JP&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;MG&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;NZ&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;SD&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;TT&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;ZA&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;BA&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;CI&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;EG&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;GW&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;KH&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;MO&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;PE&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;SH&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;UA&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;BD&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;CL&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;ER&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;HM&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;KR&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;MQ&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;PH&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;SJ&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;UM&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;AQ&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;BV&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;DJ&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;GE&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;IS&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;LY&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;NL&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;RO&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;TM&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;WF&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;AM&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;BR&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;CY&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;FX&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;IO&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;LT&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;NE&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;PY&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;TG&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;VI&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;AE&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;BG&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;CO&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;FI&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;HU&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;KZ&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;MW&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;PM&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;SO&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;UZ&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;AW&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;CF&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;EC&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;GR&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;KE&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;MM&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;OM&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;SE&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;TV&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;ZR&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;AR&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;BW&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;DK&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;GI&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;IT&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;MA&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;NO&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;RU&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;TN&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;WS&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;AF&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;BJ&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;CR&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;FJ&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;ID&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;LA&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;MX&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;PN&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;SR&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;VA&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[mn:dateretrieved_games_2:ok]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>9</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>8</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[none:app_title:nk]' palette='cyclic_10_0' type='palette'>
             <map to='#1ba3c6'>
               <bucket>&quot;Call of Duty®: Modern Warfare® 2&quot;</bucket>
@@ -30698,691 +31383,6 @@
             </map>
             <map to='#ffbe7d'>
               <bucket>&quot;Portal&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[attr:is_multiplayer:nk]' palette='cyclic_10_0' type='palette'>
-            <map to='#1ba3c6'>
-              <bucket>false</bucket>
-            </map>
-            <map to='#4f7cba'>
-              <bucket>true</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:is_multiplayer:nk]' palette='jewel_bright_10_0' type='palette'>
-            <map to='#64cdcc'>
-              <bucket>true</bucket>
-            </map>
-            <map to='#f9d23c'>
-              <bucket>false</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[dy:dateretrieved_games_2:ok]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>9</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>8</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[wd:dateretrieved_games_2:ok]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>2</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>1</bucket>
-            </map>
-            <map to='#9c755f'>
-              <bucket>6</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>4</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>7</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>9</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>3</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>8</bucket>
-            </map>
-            <map to='#ff9da7'>
-              <bucket>5</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[wk:dateretrieved_games_2:ok]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>9</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>8</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[yr:dateretrieved_games_2:ok]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>9</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>8</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:loccountrycode:nk]' type='palette'>
-            <map to='#499894'>
-              <bucket>&quot;AN&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;BS&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;CZ&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;GA&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;IQ&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;LU&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;NF&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;QA&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;TH&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;VN&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;BE&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;CM&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;ES&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;HR&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;KW&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;MT&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;PK&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;SK&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;US&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;AG&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;BM&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;CU&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;FK&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;IE&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;LB&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;MY&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;PR&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;SV&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;VC&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;AS&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;BY&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;DM&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;GL&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;JM&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;MC&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;NP&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;RW&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;TO&quot;</bucket>
-            </map>
-            <map to='#79706e'>
-              <bucket>&quot;YE&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;AO&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;BT&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;DE&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;GB&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;IR&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;LV&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;NG&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;RE&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;TJ&quot;</bucket>
-            </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;VU&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;AI&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;BN&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;CV&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;FO&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;IL&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;LC&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;MZ&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;PT&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;SY&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;VE&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;BB&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;CK&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;EH&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;HK&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;KI&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;MP&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;PG&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;SI&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
-              <bucket>&quot;UG&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;AD&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;BF&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;CN&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;ET&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;HT&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;KY&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;MU&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;PL&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;SM&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;UY&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;AZ&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;CH&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;EE&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;GT&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;KG&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;MN&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;PA&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;SG&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;TW&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;ZW&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;AL&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;BO&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;CX&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;FR&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;IN&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;LK&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;NA&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;PW&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;SZ&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;VG&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;AT&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;BZ&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;DO&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;GM&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;JO&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;MD&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;NU&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;SA&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;TR&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
-              <bucket>&quot;YU&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;AU&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;CA&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;DZ&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;GP&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;JP&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;MG&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;NZ&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;SD&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;TT&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;ZA&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;BA&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;CI&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;EG&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;GW&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;KH&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;MO&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;PE&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;SH&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;UA&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;BD&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;CL&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;ER&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;HM&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;KR&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;MQ&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;PH&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;SJ&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
-              <bucket>&quot;UM&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;AQ&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;BV&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;DJ&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;GE&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;IS&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;LY&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;NL&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;RO&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;TM&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;WF&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;AM&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;BR&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;CY&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;FX&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;IO&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;LT&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;NE&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;PY&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;TG&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;VI&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;AE&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;BG&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;CO&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;FI&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;HU&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;KZ&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;MW&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;PM&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;SO&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;UZ&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;AW&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;CF&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;EC&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;GR&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;KE&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;MM&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;OM&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;SE&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;TV&quot;</bucket>
-            </map>
-            <map to='#fabfd2'>
-              <bucket>&quot;ZR&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;AR&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;BW&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;DK&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;GI&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;IT&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;MA&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;NO&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;RU&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;TN&quot;</bucket>
-            </map>
-            <map to='#ff9d9a'>
-              <bucket>&quot;WS&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;AF&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;BJ&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;CR&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;FJ&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;ID&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;LA&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;MX&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;PN&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;SR&quot;</bucket>
-            </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;VA&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[mn:dateretrieved_games_2:ok]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>9</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>8</bucket>
             </map>
           </encoding>
           <encoding attr='color' field='[none:app_type:nk]' palette='cyclic_10_0' type='palette'>
