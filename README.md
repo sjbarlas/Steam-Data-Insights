@@ -1,6 +1,9 @@
 # The intricacies of the _Multiplayer_ feature and why it should be integrated into your next game.
 
-Steam's 
+>### Code and Tools
+>PostgresDB - ([Creation of tables for data storage](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Tables_Creation_and_Data_Pull_to_PostgresDB.sql)) ([Database tables](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Steam_Database_postgres.png))
+
+>Tableau - ([Data_1 Worksheets](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_1)) ([Data_2 Worksheet](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_2))
 
 ## 1. Current Multiplayer applications (or lack thereof)
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/App%20Multiplayer%20Options.png)
@@ -29,4 +32,4 @@ I decided to dig deeper to analyse what percentage of each country enjoys multip
 In order to make the above findings more convincing, I decided to analyse August and September months for 2013. These months were also dominated by multiplayer games by the users. It's also acceptable to state that there was even an increase within the multiplayer space from 2013 -> 2014.
 
 ## What now?
-My analysis and findings greatly indicate that Steam as a platform is extremely suitable for games with the multiplayer option. It is recommended to have a multiplayer feature. Steam as a community loves to engage and this is highlighted in the ever growing popularity of multiplayer modes for games, year by year. Since Steam is well aware that majority of the popular games within Steam are multiplayer compatible, it has it's own service called Steam Matchmaking. This is a specific multiplayer feature which aids developers to integrate the multiplayer option within their applications when launching on Steam.
+My analysis and findings greatly indicate that Steam as a platform is extremely suitable for games with the multiplayer option. It is recommended to have a multiplayer feature. Steam as a community loves to engage and this is highlighted in the ever growing popularity of multiplayer modes for games, year by year. Since Steam is well aware that majority of the popular games within Steam are multiplayer compatible, it has it's own service called Steam Matchmaking. This is a specific multiplayer feature which aids developers to integrate the multiplayer option within their applications when launching on Steam. Hence integrating a multiplayer game with Steam should neither be complex nor hectic for the developer in question.
