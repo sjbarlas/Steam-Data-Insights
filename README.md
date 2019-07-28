@@ -1,8 +1,9 @@
 # The intricacies of the Multiplayer feature and why it should be integrated into your next game.
 
-You can use the [editor on GitHub](https://github.com/sjbarlas/Data-Insights/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 1. Current Multiplayer games (or lack thereof)
+![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/App%20Multiplayer%20Options.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As I dug into the initial steam data, what I found was ther 
 
 ### Markdown
 
