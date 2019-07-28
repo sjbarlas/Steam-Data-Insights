@@ -1,9 +1,19 @@
 # The intricacies of the Multiplayer feature and why it should be integrated into your next game.
 
-## 1. Current Multiplayer games (or lack thereof)
+Steam's 
+
+## 1. Current Multiplayer applications (or lack thereof)
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/App%20Multiplayer%20Options.png)
 
-As I dug into the initial steam data, what I found was ther 
+As I dug into the initial Steam data, it was interesting to see the various applications which exist. The most important information to note was how non-multiplayer games topple the other applications within Steam. When it came to analsying applications with the multiplayer feature, it was intriguing to note that multiplayer DLCs outweigh the multiplayer games altogether. This isn't shocking but wasn't expected. DLCs are usually released as an add-on/follow up to many games with either the multiplayer feature or extra quests/bonuses. This is usually to keep the players interested in the initial games and introduce them to a set of new refreshing challenges; **what better way to do so than to engage the player with other players**?
+
+## 2. What are the top 30 played games on Steam?
+![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/Top%20Multiplayer%20Games.png)
+
+I found this piece to be very astonishing; even if the majority of games on steam are non-multiplayer, yet the highest played games on Steam by Steam users contain the multiplayer option. Out of the top 30 games, only 8 games aren't multiplayer compatible, which means around **73.3% of games** are. This does indicate that **games with the multiplayer option tend to rise in popularity with the players** as it gives them the perfect platform to play, interact, and compete with many other players.
+
+## 3.
+
 
 ### Markdown
 
