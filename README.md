@@ -1,4 +1,4 @@
-## The intricacies of the Multiplayer option and why it should be integrated into your next game
+# The intricacies of the Multiplayer feature and why it should be integrated into your next game
 
 You can use the [editor on GitHub](https://github.com/sjbarlas/Data-Insights/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
