@@ -1,4 +1,4 @@
-# The intricacies of the Multiplayer feature and why it should be integrated into your next game.
+# The intricacies of the _Multiplayer_ feature and why it should be integrated into your next game.
 
 Steam's 
 
@@ -18,36 +18,15 @@ Let's analyse data from 2014, specifically the months of August and September. I
 
 ## 4. Steam Matchmaking
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Steam%20Matchmaking.png)
-Now let's drill down to what these users were playing when the data was retrieved. Many were using the **Steam Matchmaking feature ('Yes') which meant they were playing the multiplayer mode of various games** with _Dota_ 2 being the most popular. Even though _Half-Life 2: Lost Coast_ was shown to be the most popular game on Steam, this resulting analysis does not display it to be the number one most popular for either of those months. This game's counterpart; Half-Life 2: Deathmatch, on the other hand does indeed contain a multiplayer mode and hence is the top playable game for both months.
+Now let's drill down to what these users were playing when the data was retrieved. Many were using the **Steam Matchmaking feature ('Yes') which meant they were playing the multiplayer mode of various games** with _Dota_ 2 being the most popular. Even though _Half-Life 2: Lost Coast_ was shown to be the most popular game on Steam, this resulting analysis does not display it to be the number one most popular for either of those months. This game's counterpart; _Half-Life 2: Deathmatch_, on the other hand does indeed contain a multiplayer mode and hence is the one of the top playable games for both months.
 
-### Markdown
+## 5. Top 10 countries and the games they like
+![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Players%20Games%20Data.png)
+I decided to dig deeper to analyse what percentage of each country enjoys multiplayers vs. non-multiplayers. The data showed favourable results for the multiplayer feature. Each country engages in the multiplayer mode expicitly moreso than any other with USA taking the lead. The results show that **65%+ games that are played by each country definitely includes the multiplayer mode**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 6. Throwback to Steam in 2013
+![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_2/2013%20-%20Player%20Games%20Data.png)
+In order to make the above findings more convincing, I decided to analyse August and September months for 2013. These months were also dominated by multiplayer games by the users. It's also acceptable to state that there was even an increase within the multiplayer space from 2013 -> 2014.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjbarlas/Data-Insights/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What now?
+My analysis and findings greatly indicate that Steam as a platform is extremely suitable for games with the multiplayer option. It is recommended to have a multiplayer feature. Steam as a community loves to engage and this is highlighted in the ever growing popularity of multiplayer modes for games, year by year. Since Steam is well aware that majority of the popular games within Steam are multiplayer compatible, it has it's own service called Steam Matchmaking. This is a specific multiplayer feature which aids developers to integrate the multiplayer option within their applications when launching on Steam.
