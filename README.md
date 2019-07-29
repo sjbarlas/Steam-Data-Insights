@@ -7,7 +7,7 @@
 
 ## 1. Current Multiplayer applications (or lack thereof)
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/App%20Multiplayer%20Options.png)
-As I dug into the initial Steam data, it was interesting to see the various applications which exist. The most important information to note was how non-multiplayer games topple the other applications within Steam. When it came to analsying applications with the multiplayer feature, it was intriguing to note that multiplayer DLCs outweigh the multiplayer games altogether. This isn't shocking but wasn't expected. 
+As I dug into the initial Steam data, it was interesting to see the various applications which exist. The most important information to note was how non-multiplayer games topple the other applications within Steam. When it came to analysing applications with the multiplayer feature, it was intriguing to note that multiplayer DLCs outweigh the multiplayer games altogether. This isn't shocking but wasn't expected. 
 
 DLCs are usually released as an add-on/follow up to many games with either **the multiplayer feature** or extra quests/bonuses. This is usually to keep the players interested in the initial games and introduce them to a set of new refreshing challenges; **what better way to do so than to engage the player with other players**?
 
@@ -25,7 +25,7 @@ Now let's drill down to what these users were playing when the data was retrieve
 
 ## 5. Top 10 countries and the games they like
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Players%20Games%20Data.png)
-I decided to dig deeper to analyse what percentage of each country enjoys multiplayers vs. non-multiplayers. The data showed favourable results for the multiplayer feature. Each country engages in the multiplayer mode expicitly moreso than any other with USA taking the lead. The results show that **65%+ games that are played by each country definitely includes the multiplayer mode**.
+I decided to dig deeper to analyse what percentage of each country enjoys multiplayers vs. non-multiplayers. The data showed favourable results for the multiplayer feature. Each country engages in the multiplayer mode explicitly moreso than any other with USA taking the lead. The results show that **65%+ games that are played by each country definitely includes the multiplayer mode**.
 
 ## 6. Throwback to Steam in 2013
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_2/2013%20-%20Player%20Games%20Data.png)
