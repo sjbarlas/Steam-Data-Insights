@@ -2,7 +2,6 @@
 
 >### Code and Tools
 >SQL & Postgres - ([Creation of tables for data pull/storage - SQL](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Tables_Creation_and_Data_Pull_to_PostgresDB.sql)) ([Postgres db tables](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Steam_Database_postgres.png))
-
 >Tableau - ([Data_1 Worksheets](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_1)) ([Data_2 Worksheet](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_2))
 
 ## 1. Current Multiplayer applications (or lack thereof)
