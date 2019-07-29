@@ -25,7 +25,7 @@ Now let's drill down to what these users were playing when the data was retrieve
 
 ## 5. Top Dollar for the top Games
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Monetisation.png)
-Since these games are the most in demand, it was important to look into how much were these games worth. It can be seen that Steam users were **willing to spend money with a max of $20 and an average worth of $10.62 for multiplayer games and $5.00 for non-multiplayer games**. It can also be concluded that when it comes to buying games, **multiplayer games are invested into more than non-multiplayers**.
+Since these games are the most in demand, it was important to look into how much were these games worth. It can be seen that Steam users were **willing to spend money with a max of $20 and an average worth of $10.62 for multiplayer games and $5.00 for non-multiplayer games**. It can also be concluded that when it comes to buying games, **multiplayer games are invested into more than non-multiplayers** by Steam users.
 
 ## 6. Top 10 Countries and the Games they like
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_1/2014%20-%20Players%20Games%20Data.png)
