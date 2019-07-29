@@ -31,7 +31,7 @@ I decided to dig deeper to analyse what percentage of each country enjoys multip
 ![Image](https://raw.githubusercontent.com/sjbarlas/Steam-Data-Insights/master/data_2/2013%20-%20Player%20Games%20Data.png)
 In order to make the above findings more convincing, I decided to analyse August and September months for 2013. These months were also dominated by multiplayer games by the users. It's also acceptable to state that there was even **an increase within the multiplayer space from 2013 -> 2014**.
 
-## Steps for your game
+## Next steps
 My analysis and findings greatly indicate that Steam as a platform is extremely suitable for games with the multiplayer option. It is recommended to have a multiplayer feature. Steam as a community loves to **engage and this is highlighted in the ever growing popularity of multiplayer modes for games**, year by year. Since Steam is well aware that majority of the popular games within Steam are multiplayer compatible, it has it's own service called **Steam Matchmaking**. This is a specific multiplayer feature which aids developers to integrate the multiplayer option within their applications when launching on Steam. 
 
 Hence integrating a multiplayer game with Steam should neither be complex nor hectic for the developer in question. Since the top 10 multiplayer oriented countries include non-speaking English countries as well, a multiplayer launchable game should heed the advice of **making the game multilingual** as well to reach out to an even more international audience with not just only the multiplayer popularity.
