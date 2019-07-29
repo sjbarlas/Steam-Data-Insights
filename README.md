@@ -1,7 +1,7 @@
 # The intricacies of the _Multiplayer_ feature and why it should be integrated into your next game.
 
 >### Code and Tools
->PostgresDB - ([Creation of tables for data storage](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Tables_Creation_and_Data_Pull_to_PostgresDB.sql)) ([Database tables](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Steam_Database_postgres.png))
+>SQL & Postgres - ([Creation of tables for data pull/storage - SQL](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Tables_Creation_and_Data_Pull_to_PostgresDB.sql)) ([Postgres db tables](https://github.com/sjbarlas/Steam-Data-Insights/blob/master/Steam_Database_postgres.png))
 
 >Tableau - ([Data_1 Worksheets](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_1)) ([Data_2 Worksheet](https://github.com/sjbarlas/Steam-Data-Insights/tree/master/data_2))
 
